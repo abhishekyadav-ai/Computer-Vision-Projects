@@ -74,7 +74,7 @@ Every frame with detected motion is written to the current folder as `motion_fra
 
 ## Demo Video Credit
 
-The footage used while building this project is from YouTube and is not redistributed here: [YouTube link here](https://www.youtube.com/results?search_query=burglar+into+house+vide+feeds+)
+The footage used while building this project is from YouTube and is not redistributed here: [YouTube link here](https://www.youtube.com/watch?v=48ULaN___wU)
 
 All rights belong to the original owner.
 
